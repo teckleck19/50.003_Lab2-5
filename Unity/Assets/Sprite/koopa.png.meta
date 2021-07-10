@@ -1,0 +1,2268 @@
+fileFormatVersion: 2
+guid: 0c175baeb0c2b3c47b21a385435d8c99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 943534445077230785
+    second: koopa_0
+  - first:
+      213: 1337390760429553993
+    second: koopa_1
+  - first:
+      213: -3966593706297187526
+    second: koopa_2
+  - first:
+      213: -5416829733762683457
+    second: koopa_3
+  - first:
+      213: 8572152143462053791
+    second: koopa_4
+  - first:
+      213: -3963764653610603637
+    second: koopa_5
+  - first:
+      213: 8775610451068496206
+    second: koopa_6
+  - first:
+      213: -7432191900083801292
+    second: koopa_7
+  - first:
+      213: 5960605468379894945
+    second: koopa_8
+  - first:
+      213: 2690275285955935170
+    second: koopa_9
+  - first:
+      213: 5951328475962723995
+    second: koopa_10
+  - first:
+      213: 6372126376101158406
+    second: koopa_11
+  - first:
+      213: 4722527895939228505
+    second: koopa_12
+  - first:
+      213: -2847754504431488654
+    second: koopa_13
+  - first:
+      213: -1746415005138656647
+    second: koopa_14
+  - first:
+      213: 5077748761105158669
+    second: koopa_15
+  - first:
+      213: -6972548539716038296
+    second: koopa_16
+  - first:
+      213: 1442830302793572469
+    second: koopa_17
+  - first:
+      213: 8142920918973580088
+    second: koopa_18
+  - first:
+      213: 1450208600925846380
+    second: koopa_19
+  - first:
+      213: 7927256415870748772
+    second: koopa_20
+  - first:
+      213: 363585313236241636
+    second: koopa_21
+  - first:
+      213: 7519992176564943263
+    second: koopa_22
+  - first:
+      213: 1071342480542514176
+    second: koopa_23
+  - first:
+      213: -3579458854799477911
+    second: koopa_24
+  - first:
+      213: 8354345679911974315
+    second: koopa_25
+  - first:
+      213: 1101250742966550953
+    second: koopa_26
+  - first:
+      213: -8161062029360811612
+    second: koopa_27
+  - first:
+      213: 3566347608976479238
+    second: koopa_28
+  - first:
+      213: 8799742798394351301
+    second: koopa_29
+  - first:
+      213: 7799069875408191218
+    second: koopa_30
+  - first:
+      213: -5938201541288684134
+    second: koopa_31
+  - first:
+      213: 7698020763089494453
+    second: koopa_32
+  - first:
+      213: 83405184217993790
+    second: koopa_33
+  - first:
+      213: 4069535249329612854
+    second: koopa_34
+  - first:
+      213: -337631650098886246
+    second: koopa_35
+  - first:
+      213: 7127481899521992598
+    second: koopa_36
+  - first:
+      213: 1008179839264717732
+    second: koopa_37
+  - first:
+      213: -2892440922422817942
+    second: koopa_38
+  - first:
+      213: 632897995151241470
+    second: koopa_39
+  - first:
+      213: -955894840905318329
+    second: koopa_40
+  - first:
+      213: 2277584806317542088
+    second: koopa_41
+  - first:
+      213: -1098675812037308518
+    second: koopa_42
+  - first:
+      213: -922029485731535306
+    second: koopa_43
+  - first:
+      213: 7223102316405726530
+    second: koopa_44
+  - first:
+      213: 1148261028549677455
+    second: koopa_45
+  - first:
+      213: 6715293796505732069
+    second: koopa_46
+  - first:
+      213: 1945852585677441461
+    second: koopa_47
+  - first:
+      213: 208946506047266311
+    second: koopa_48
+  - first:
+      213: -411314856499528370
+    second: koopa_49
+  - first:
+      213: -3155024206723812986
+    second: koopa_50
+  - first:
+      213: 1279564953601110397
+    second: koopa_51
+  - first:
+      213: -5392725873309401911
+    second: koopa_52
+  - first:
+      213: -1923838738715434607
+    second: koopa_53
+  - first:
+      213: 1754837476405190821
+    second: koopa_54
+  - first:
+      213: -1600343856094915281
+    second: koopa_55
+  - first:
+      213: 4210346214430885274
+    second: koopa_56
+  - first:
+      213: 8216603521503242247
+    second: koopa_57
+  - first:
+      213: -490315494289271341
+    second: koopa_58
+  - first:
+      213: -8605631157991968791
+    second: koopa_59
+  - first:
+      213: 3457918660090753261
+    second: koopa_60
+  - first:
+      213: 3181955800848927089
+    second: koopa_61
+  - first:
+      213: -4836955409442685480
+    second: koopa_62
+  - first:
+      213: 8323303822617753625
+    second: koopa_63
+  - first:
+      213: 1930337723765515264
+    second: koopa_64
+  - first:
+      213: 9113420694466281667
+    second: koopa_65
+  - first:
+      213: 9219096189083432253
+    second: koopa_66
+  - first:
+      213: 290099764731018513
+    second: koopa_67
+  - first:
+      213: 5343379383914057305
+    second: koopa_68
+  - first:
+      213: 1385698263276481052
+    second: koopa_69
+  - first:
+      213: 6423977140175124465
+    second: koopa_70
+  - first:
+      213: 4876759548759342001
+    second: koopa_71
+  - first:
+      213: -5246813890543144395
+    second: koopa_72
+  - first:
+      213: 1560876610342022243
+    second: koopa_73
+  - first:
+      213: -1114293485880196659
+    second: koopa_74
+  - first:
+      213: -7617496839406428880
+    second: koopa_75
+  - first:
+      213: 449750018838640406
+    second: koopa_76
+  - first:
+      213: -5610143941886145985
+    second: koopa_77
+  - first:
+      213: -1510700866440495060
+    second: koopa_78
+  - first:
+      213: 8747936620714030582
+    second: koopa_79
+  - first:
+      213: 6048343811278956880
+    second: koopa_80
+  - first:
+      213: 4073634293596654353
+    second: koopa_81
+  - first:
+      213: -5438401832150836264
+    second: koopa_82
+  - first:
+      213: -8942690740405449606
+    second: koopa_83
+  - first:
+      213: -5648047938500158880
+    second: koopa_84
+  - first:
+      213: 9186473638108491288
+    second: koopa_85
+  - first:
+      213: 3460284877808545578
+    second: koopa_86
+  - first:
+      213: 8572026682085182391
+    second: koopa_87
+  - first:
+      213: -1770872198191515659
+    second: koopa_88
+  - first:
+      213: -5907261377679794981
+    second: koopa_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: koopa_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 389
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c47c28249b181d00800000000000000
+      internalID: 943534445077230785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 388
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9490b419fcd5f8210800000000000000
+      internalID: 1337390760429553993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 383
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a332bdf3a04d3f8c0800000000000000
+      internalID: -3966593706297187526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 382
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd2d468e0e83d4b0800000000000000
+      internalID: -5416829733762683457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 381
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97b8af05f666f670800000000000000
+      internalID: 8572152143462053791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_5
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 381
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b6a486c01edf8c0800000000000000
+      internalID: -3963764653610603637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 382
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49a427c53b39c970800000000000000
+      internalID: 8775610451068496206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_7
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 383
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43338f428dc8bd890800000000000000
+      internalID: -7432191900083801292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_8
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 388
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4d805c71358b250800000000000000
+      internalID: 5960605468379894945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_9
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 389
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb7a6f6e17c55520800000000000000
+      internalID: 2690275285955935170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 359
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ecc67a7bd579250800000000000000
+      internalID: 5951328475962723995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 342
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e18679d275e6850800000000000000
+      internalID: 6372126376101158406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_12
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 342
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953a45fa91ac98140800000000000000
+      internalID: 4722527895939228505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 341
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271b7d3cd5eba78d0800000000000000
+      internalID: -2847754504431488654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_14
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 340
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9726c444ecc73c7e0800000000000000
+      internalID: -1746415005138656647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_15
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 340
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d025a5c5899c77640800000000000000
+      internalID: 5077748761105158669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_16
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 341
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8619e079b088c3f90800000000000000
+      internalID: -6972548539716038296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_17
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 342
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5702e251486f50410800000000000000
+      internalID: 1442830302793572469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_18
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 342
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8338489ce67710170800000000000000
+      internalID: 8142920918973580088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_19
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 359
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bb66cf90d202410800000000000000
+      internalID: 1450208600925846380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 329
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4688967b5b5430e60800000000000000
+      internalID: 7927256415870748772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 301
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eccef08ae6bb0500800000000000000
+      internalID: 363585313236241636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_22
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 302
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99beddba016c5860800000000000000
+      internalID: 7519992176564943263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 301
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cb5815f4c2ede00800000000000000
+      internalID: 1071342480542514176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_24
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 300
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963fc87e225335ec0800000000000000
+      internalID: -3579458854799477911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_25
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 300
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5f8f5f12990f370800000000000000
+      internalID: 8354345679911974315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_26
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 301
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1082f47bd684f00800000000000000
+      internalID: 1101250742966550953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_27
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 302
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1350ec2551ebe80800000000000000
+      internalID: -8161062029360811612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_28
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 301
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6045b9a41463e7130800000000000000
+      internalID: 3566347608976479238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_29
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 329
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ced81db377fe1a70800000000000000
+      internalID: 8799742798394351301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 299
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2feb72efabcdb3c60800000000000000
+      internalID: 7799069875408191218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_31
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 299
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a959fcef825479da0800000000000000
+      internalID: -5938201541288684134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_32
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 269
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1e781291dd4da60800000000000000
+      internalID: 7698020763089494453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_33
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 260
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e325db9b290582100800000000000000
+      internalID: 83405184217993790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 261
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638e8397fb4e97830800000000000000
+      internalID: 4069535249329612854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_35
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 261
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a994de69dcd705bf0800000000000000
+      internalID: -337631650098886246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_36
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 261
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697e80c4607e9e260800000000000000
+      internalID: 7127481899521992598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_37
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 261
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab7515e836cdfd00800000000000000
+      internalID: 1008179839264717732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_38
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 260
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b4f2d4e4cfbd7d0800000000000000
+      internalID: -2892440922422817942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_39
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 269
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0fb049f5188c800800000000000000
+      internalID: 632897995151241470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 207
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740c53de4bafbb2f0800000000000000
+      internalID: -955894840905318329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_41
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 211
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca426e605b9b9f10800000000000000
+      internalID: 2277584806317542088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_42
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 212
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fc3348b28b0c0f0800000000000000
+      internalID: -1098675812037308518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_43
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 208
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636298e511b4433f0800000000000000
+      internalID: -922029485731535306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_44
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 203
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d1aa1894d9d3460800000000000000
+      internalID: 7223102316405726530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_45
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 203
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81d02c52517fef00800000000000000
+      internalID: 1148261028549677455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_46
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 208
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3cb17f024813d50800000000000000
+      internalID: 6715293796505732069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_47
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 212
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9449afd9e010b10800000000000000
+      internalID: 1945852585677441461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_48
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 211
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e910e7db356e200800000000000000
+      internalID: 208946506047266311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_49
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 207
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d31873157ba4af0800000000000000
+      internalID: -411314856499528370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681f774333a1734d0800000000000000
+      internalID: -3155024206723812986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_51
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 156
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71fe6ebb8de1c110800000000000000
+      internalID: 1279564953601110397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_52
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccb55ed3603925b0800000000000000
+      internalID: -5392725873309401911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_53
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 161
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1912bbd2cd62d45e0800000000000000
+      internalID: -1923838738715434607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_54
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 158
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0aca3236f6a5810800000000000000
+      internalID: 1754837476405190821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_55
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 158
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25dbfaedbf6ac9e0800000000000000
+      internalID: -1600343856094915281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_56
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 161
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95409c13972e6a30800000000000000
+      internalID: 4210346214430885274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_57
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 160
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708ac6f8e5d370270800000000000000
+      internalID: 8216603521503242247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_58
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 156
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5940fd7ac0239f0800000000000000
+      internalID: -490315494289271341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_59
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 160
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efeadf6e08a29880800000000000000
+      internalID: -8605631157991968791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_60
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 126
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de077e453befcff20800000000000000
+      internalID: 3457918660090753261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_61
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 123
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179089031f3982c20800000000000000
+      internalID: 3181955800848927089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_62
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 122
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddb3c1beaeafdcb0800000000000000
+      internalID: -4836955409442685480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_63
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 121
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91838c85ab0528370800000000000000
+      internalID: 8323303822617753625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_64
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 121
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0046491beefe9ca10800000000000000
+      internalID: 1930337723765515264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_65
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 122
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c04b5e26df597e70800000000000000
+      internalID: 9113420694466281667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_66
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 123
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35b97c932fc0ff70800000000000000
+      internalID: 9219096189083432253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_67
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 126
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d7732f234a60400800000000000000
+      internalID: 290099764731018513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_68
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 82
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ec75e3d3f772a40800000000000000
+      internalID: 5343379383914057305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_69
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 82
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a687c8a3dfa3310800000000000000
+      internalID: 1385698263276481052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 81
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f73e5d5c2d862950800000000000000
+      internalID: 6423977140175124465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_71
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 80
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb7bcea8fabda340800000000000000
+      internalID: 4876759548759342001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_72
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 80
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532379bb0929f27b0800000000000000
+      internalID: -5246813890543144395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_73
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 81
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ce6a9d10959a510800000000000000
+      internalID: 1560876610342022243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_74
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 82
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc144967afb3980f0800000000000000
+      internalID: -1114293485880196659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_75
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 82
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dd489dbf6394690800000000000000
+      internalID: -7617496839406428880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_76
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 41
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6173a9e5245dd3600800000000000000
+      internalID: 449750018838640406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_77
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 42
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a01150fc3c422b0800000000000000
+      internalID: -5610143941886145985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_78
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 41
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2080f5e099e80be0800000000000000
+      internalID: -1510700866440495060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_79
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 40
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f57a4b020ae66970800000000000000
+      internalID: 8747936620714030582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_80
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 40
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059e6be96a800f350800000000000000
+      internalID: 6048343811278956880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_81
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 41
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b8da69ec4788830800000000000000
+      internalID: 4073634293596654353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_82
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 42
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbd0d8f85ae684b0800000000000000
+      internalID: -5438401832150836264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_83
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 41
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c45f9e62e25e380800000000000000
+      internalID: -8942690740405449606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_84
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a1257135a1e91b0800000000000000
+      internalID: -5648047938500158880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_85
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e62f11a19ec7f70800000000000000
+      internalID: 9186473638108491288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_86
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f2f6353c6650030800000000000000
+      internalID: 3460284877808545578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_87
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb8bdec9d4f5f670800000000000000
+      internalID: 8572026682085182391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_88
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7fd244e199c67e0800000000000000
+      internalID: -1770872198191515659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopa_89
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcd2043311350ea0800000000000000
+      internalID: -5907261377679794981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
